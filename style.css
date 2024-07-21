@@ -1,0 +1,10 @@
+ol {
+    display: flex;
+    padding-left: 800px;
+    justify-content: end;
+    list-style-type: none;
+}
+
+li{
+    margin: 20px;
+}
