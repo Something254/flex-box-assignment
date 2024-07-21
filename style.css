@@ -8,3 +8,33 @@ ol {
 li{
     margin: 20px;
 }
+
+
+.Parent_div {
+    background-color: yellow;
+    width: 200px;
+    display: flex;
+    justify-content: end;
+}
+
+
+.child_div {
+    width: 50px;
+    background-color: brown;
+    display: inline;
+    justify-content: space-around;
+    padding-left: 20px;
+}
+
+
+.container-id {
+    width: 700px;
+    height: 800px;
+    background-color: skyblue;
+    
+}
+p {
+    display: flex;
+    justify-content: end;
+    color: red;
+}
